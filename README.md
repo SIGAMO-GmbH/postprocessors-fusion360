@@ -24,7 +24,7 @@ Our Modifications:
 ### Wait for internal coolant
 
 
-'''
+```
   // set coolant after we have positioned at Z
   setCoolant(tool.coolant);
   
@@ -38,7 +38,7 @@ Our Modifications:
     }
   }
 
-'''
+```
 
 2,5  mm --> 2 sec  
 5,0  mm --> 1 sec 
