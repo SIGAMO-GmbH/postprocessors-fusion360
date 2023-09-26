@@ -37,10 +37,10 @@ Our Modifications:
       onDwell(5 * (1/tool.diameter));
     }
   }
-
 ```
 
 2,5  mm --> 2 sec  
 5,0  mm --> 1 sec 
-10,0 mm --> 0,5 sec 
+10,0 mm --> 0,5 sec
+
 works for us.. 
